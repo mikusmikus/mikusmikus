@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
+
+- 🔭 I’m currently working on my github latest projects - minesweeper and redux-blox
+      https://github.com/mikusmikus/minesweeper
+      https://github.com/mikusmikus/redux-blog
+- 🌱 I’m currently learning React, Redux, TypeScript, etc
+- 📫 How to reach me: https://www.linkedin.com/in/mikus-meikulis/
+- ⚡ Fun fact: sometimes i'm funny
+
 <!--
 **mikusmikus/mikusmikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

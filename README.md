@@ -7,7 +7,7 @@ My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
    minesweeper: https://github.com/mikusmikus/minesweeper
    
    redux-blox: https://github.com/mikusmikus/redux-blog
-- 🌱 I’m currently learning React, Redux, TypeScript, etc
+- 🌱 I’m currently learning React, Redux, TypeScript, Vue.js, etc
 - 📫 How to reach me: https://www.linkedin.com/in/mikus-meikulis/
 - ⚡ Fun fact: sometimes i'm funny
 

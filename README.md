@@ -4,13 +4,15 @@ My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
 
 - 🔭 I’m currently working on my latest github projects:
 
+   vue3 project : https://mikusmikus.github.io/vue3-app/ 
+   
    rock-paper-scissors-lizard-spock VUE: https://mikusmikus.github.io/RPSLS/
    
    redux-blox REACT/REDUX: https://github.com/mikusmikus/redux-blog
    
    minesweeper REACT: https://github.com/mikusmikus/minesweeper
    
-- 🌱 I’m currently learning Angular, Vue.js React, Redux, TypeScript, etc
+- 🌱 I’m currently learning javascript algoritms, animations
 - 📫 How to reach me: https://www.linkedin.com/in/mikus-meikulis/
 - ⚡ Fun fact: sometimes i'm funny
 

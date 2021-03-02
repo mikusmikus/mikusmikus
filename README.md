@@ -3,6 +3,7 @@
 My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
 
 - 🔭 I’m currently working on my latest github projects:
+-  pipes project : https://mikusmikus.github.io/pipes/
 
    vue3 project : https://mikusmikus.github.io/vue3-app/ 
    
@@ -10,7 +11,6 @@ My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
    
    redux-blox REACT/REDUX: https://github.com/mikusmikus/redux-blog
    
-   minesweeper REACT: https://github.com/mikusmikus/minesweeper
    
 - 🌱 I’m currently learning javascript algoritms, animations
 - 📫 How to reach me: https://www.linkedin.com/in/mikus-meikulis/

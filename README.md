@@ -3,6 +3,7 @@
 My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
 
 - 🔭 I’m currently working on my latest github projects:
+
    pipes project : https://mikusmikus.github.io/pipes/
 
    vue3 project : https://mikusmikus.github.io/vue3-app/ 

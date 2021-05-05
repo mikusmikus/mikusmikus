@@ -2,7 +2,7 @@
 
 My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
 
-- 🔭 I’m currently working on my latest github projects:
+- 🔭My latest github projects:
 
    pipes project : https://mikusmikus.github.io/pipes/
 
@@ -13,7 +13,7 @@ My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
    redux-blox REACT/REDUX: https://github.com/mikusmikus/redux-blog
    
    
-- 🌱 I’m currently learning javascript algoritms, animations
+- 🌱 I’m currently learning javascript algoritms, animations, Angular
 - 📫 How to reach me: https://www.linkedin.com/in/mikus-meikulis/
 - ⚡ Fun fact: sometimes i'm funny
 
@@ -23,7 +23,7 @@ My name is Mikus and I'm fast learning Front-End developer from Riga, Latvia.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React, Redux, TypeScript, etc
+- 🌱 I’m currently learning TypeScript, Angular etc
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
